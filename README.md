@@ -46,7 +46,6 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=catppuccin_lavender&hide_border=true"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=catppuccin_lavender&hide_border=true"/>
 </p>
-
 <p align="center">
 🌿🍇 obrigada por visitar meu perfil 🍇🌿
 </p>
