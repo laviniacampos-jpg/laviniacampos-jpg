@@ -1,45 +1,55 @@
 ## Olá !!! 🍇
 <h1 align="center">🍇💜 Oii, eu sou a Lavinia! 💜🍇</h1>
 
+<h1 align="center">🍇💜 Lavinia 💜🍇</h1>
+
 <p align="center">
-🌸 Estudante de Desenvolvimento de Sistemas <br>
+🌿 Estudante de <b>Desenvolvimento de Sistemas</b> <br>
 💻 Explorando o mundo da programação <br>
-🍇 Apaixonada por tecnologia e aprendizado
+🍇 Criando projetos e aprendendo coisas novas todos os dias
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=C8A2C8&size=28&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!+💜;Estudante+de+Desenvolvimento+de+Sistemas+💻;Aprendendo+programação+todos+os+dias+🌸;Criando+projetos+com+amor+🍇">
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=30&duration=3000&color=D8B4E2&center=true&vCenter=true&width=600&lines=Olá!+Bem-vindo+ao+meu+GitHub+💜;Eu+sou+a+Lavinia+🍇;Estudante+de+Desenvolvimento+de+Sistemas+💻;Apaixonada+por+tecnologia+🌿">
 </p>
 
 ---
 
-### 🍇 Sobre mim
-💜 Meu nome é **Lavinia**  
-🎓 Curso **Desenvolvimento de Sistemas**  
-🌱 Atualmente estou aprendendo mais sobre **APIs, Backend e Banco de Dados**  
-🍃 Gosto de aprender coisas novas e criar projetos diferentes  
+<img align="right" height="160" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+
+### 🌿 Sobre mim
+
+🍇 Meu nome é **Lavinia**  
+💜 Curso **Desenvolvimento de Sistemas**  
+🌸 Estou aprendendo **APIs, Backend e Banco de Dados**  
+✨ Amo tecnologia, código e criar projetos novos  
 
 ---
 
-### 🌸 Tecnologias que estou aprendendo
-<p>
-<img src="https://img.shields.io/badge/JavaScript-C8A2C8?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-D8BFD8?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-C8A2C8?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-D8BFD8?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
+### 🍇 Tecnologias que estou estudando
 
 <p align="center">
-🍇💜 Obrigada por visitar meu perfil 💜🍇 <br>
-🌸 Volte sempre!
+
+<img src="https://img.shields.io/badge/JavaScript-D8B4E2?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-CDB4DB?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-BFA2DB?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-D8B4E2?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+🍇🌿 Obrigada por visitar meu perfil 🌿🍇 <br>
+💜 Sempre aprendendo e evoluindo na programação
+</p>
 </p>
