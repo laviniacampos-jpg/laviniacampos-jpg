@@ -39,7 +39,20 @@
 </p>
 
 ---
+### 📊 github stats
 
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=catppuccin_lavender&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=catppuccin_lavender&hide_border=true"/>
+</p>
 
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200">
+</p>
+
+<p align="center">
 🌿🍇 obrigada por visitar meu perfil 🍇🌿
 </p>
+
