@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200">
+<img src="https://www.google.com/search?q=s%C3%ADmbolo+do+medo+ordem+paranormal+png&sca_esv=f51b41fcffe4748f&rlz=1C1GCEA_pt-BRBR1201BR1202&udm=2&biw=1920&bih=911&sxsrf=ANbL-n4ep4ePE1oiKkv5nesMHMP3NXrYug%3A1774012056752&ei=mEa9abvHLc6Q1sQP9puo-Qw&ved=0ahUKEwi78-Dzxa6TAxVOiJUCHfYNKs8Q4dUDCBI&uact=5&oq=s%C3%ADmbolo+do+medo+ordem+paranormal+png&gs_lp=Egtnd3Mtd2l6LWltZyIlc8OtbWJvbG8gZG8gbWVkbyBvcmRlbSBwYXJhbm9ybWFsIHBuZ0iLLVD_EljvInAAeACQAQCYAYwBoAGVBaoBAzAuNbgBA8gBAPgBAZgCAqACgwLCAgUQABiABMICBBAAGB6YAwCIBgGSBwMwLjKgB7oCsgcDMC4yuAeDAsIHAzAuMsgHAoAIAA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLU00eW1VRFR6dGNZVjZNMg5NNHltVURUenRjWVY2TToOZGUyMC1NY29VOHBVOU0gBCocCgZtb3NhaWMSEGUtTTR5bVVEVHp0Y1lWNk0YADABGAcgr6DxlAowAkoIEAEYASABKAE" width="200">
 </p>
 
 <p align="center">
