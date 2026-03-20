@@ -55,9 +55,11 @@
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img src="https://br.ign.com/enigma-do-medo/135318/review/enigma-do-medo-abusa-da-criatividade-para-engajar-jogadores-em-experiencia-um-tanto-quanto-retro">
 </p>
-
+<p>
+  <imgheight="160" src=<img width="1023" height="591" alt="image" src="https://github.com/user-attachments/assets/35a84173-ebde-460a-a35b-5407ce2486c3" />
+ />
+</p>
 ---
 
 <p align="center">
