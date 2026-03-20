@@ -1,7 +1,7 @@
 <h1 align="center">💙 lavinia 💙</h1>
 
 <p align="center">
-<img src="SUA_IMAGEM_AQUI" width="350">
+<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUREPOSITORIO/main/imagem.png" width="500">
 </p>
 
 <p align="center">
@@ -56,10 +56,7 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-<p>
-  <imgheight="160" src=<img width="1023" height="591" alt="image" src="https://github.com/user-attachments/assets/35a84173-ebde-460a-a35b-5407ce2486c3" />
- />
-</p>
+
 ---
 
 <p align="center">
