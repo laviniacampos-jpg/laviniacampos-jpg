@@ -1,46 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=💖+Bem-vindo(a)+ao+meu+perfil!;🌸+Eu+sou+a+Lavínia;💻+Estudante+Dev;✨+Pink+%26+passionate+about+tech" />
+# Oii, eu sou a Lavínia! 🌸
+
+### Estudante | Criativa | Movida a café e código 🎀💗
+
+Bem-vindo(a) ao meu cantinho no GitHub! Sou apaixonada por tecnologia, desenvolvimento e por criar coisas bonitas e funcionais. 💕
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=💖+Bem-vindo(a)+ao+meu+perfil!;🌸+Estudante+de+Tecnologia;💻+React+%7C+TypeScript+%7C+SQL;✨+Sempre+aprendendo+algo+novo" />
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="180">
+## 🌷 Minhas Tecnologias Favoritas
 
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="120"/>
+<p align="left">
 
-</td>
+<img src="https://img.shields.io/badge/JavaScript-2B0A1D?style=for-the-badge&logo=javascript&logoColor=FF69B4"/>
 
-<td>
+<img src="https://img.shields.io/badge/React-2B0A1D?style=for-the-badge&logo=react&logoColor=FF69B4"/>
 
-# Estudante Dev
+<img src="https://img.shields.io/badge/HTML5-2B0A1D?style=for-the-badge&logo=html5&logoColor=FF69B4"/>
 
-### @seu_usuario • she/her
+<img src="https://img.shields.io/badge/CSS3-2B0A1D?style=for-the-badge&logo=css3&logoColor=FF69B4"/>
 
-`pink & passionate about tech 💗`
+<img src="https://img.shields.io/badge/TypeScript-2B0A1D?style=for-the-badge&logo=typescript&logoColor=FF69B4"/>
 
-<br>
+<img src="https://img.shields.io/badge/PostgreSQL-2B0A1D?style=for-the-badge&logo=postgresql&logoColor=FF69B4"/>
 
-![CS Student](https://img.shields.io/badge/💻_cs_student-2A0A1F?style=for-the-badge&logoColor=white&labelColor=4B1133)
-
-![Open to Collab](https://img.shields.io/badge/🌸_open_to_collab-2A0A1F?style=for-the-badge&labelColor=4B1133)
-
-![Coffee](https://img.shields.io/badge/☕_caffeine--driven-2A0A1F?style=for-the-badge&labelColor=4B1133)
-
-![Building Stuff](https://img.shields.io/badge/🚀_building_stuff-2A0A1F?style=for-the-badge&labelColor=4B1133)
-
-![Gamer](https://img.shields.io/badge/🎮_gamer-2A0A1F?style=for-the-badge&labelColor=4B1133)
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-# 💖 Bem-vindo(a) ao meu perfil!
+## 💖 Vamos nos conectar?
 
-```txt
-♡ ✦ Bem-vindo(a) ao meu perfil! ✦ ♡
+<p>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-2B0A1D?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-2B0A1D?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Obrigada pela visita! 🌸
+
+💗 Volte sempre 💗
+
+</div>
