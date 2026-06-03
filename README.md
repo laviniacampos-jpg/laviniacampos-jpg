@@ -1,69 +1,67 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lavínia Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<div align="center">
 
-<div class="card">
+# Oii, eu sou a Lavínia! 🌸
 
-    <h1>Oii, eu sou a Lavínia! 🌸</h1>
+### Estudante | Criativa | Movida a café e código 🎀💗
 
-    <div class="linha"></div>
+Bem-vindo(a) ao meu cantinho no GitHub! Sou apaixonada por tecnologia, desenvolvimento e por criar coisas bonitas e funcionais. 💕
 
-    <h2>Estudante | Criativa | Movida a café e código 🎀💗</h2>
-
-    <p>
-        Bem-vindo(a) ao meu cantinho! Sou apaixonada por tecnologia,
-        desenvolvimento e por criar coisas bonitas e funcionais. ✨
-    </p>
-
-    <section>
-
-        <h3>🌷 Minhas Tecnologias Favoritas</h3>
-
-        <div class="badges">
-
-            <div class="badge">JavaScript</div>
-            <div class="badge">React</div>
-            <div class="badge">HTML5</div>
-            <div class="badge">CSS3</div>
-            <div class="badge">TypeScript</div>
-            <div class="badge">PostgreSQL</div>
-
-        </div>
-
-    </section>
-
-    <section>
-
-        <h3>💖 Vamos nos conectar?</h3>
-
-        <div class="badges">
-
-            <div class="badge">LinkedIn</div>
-            <div class="badge">Email</div>
-            <div class="badge">Portfólio</div>
-
-        </div>
-
-    </section>
-
-    <div class="linha"></div>
-
-    <div class="footer">
-        ✨ Obrigada pela visita ✨
-    </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=💖+Bem-vindo(a)+ao+meu+perfil!;🌸+Estudante+de+Tecnologia;💻+React+%7C+TypeScript+%7C+SQL;✨+Sempre+aprendendo+algo+novo" />
 
 </div>
 
-<div class="ondas">
-    <div class="onda1"></div>
-    <div class="onda2"></div>
+---
+
+## 🌷 Minhas Tecnologias Favoritas
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/JavaScript-2B0A1D?style=for-the-badge&logo=javascript&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/React-2B0A1D?style=for-the-badge&logo=react&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/HTML5-2B0A1D?style=for-the-badge&logo=html5&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/CSS3-2B0A1D?style=for-the-badge&logo=css3&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/TypeScript-2B0A1D?style=for-the-badge&logo=typescript&logoColor=FF69B4"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-2B0A1D?style=for-the-badge&logo=postgresql&logoColor=FF69B4"/>
+
+</p>
+
+---
+
+## 💖 Vamos nos conectar?
+
+<p>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-2B0A1D?style=for-the-badge&logo=linkedin&logoColor=FF69B4"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-2B0A1D?style=for-the-badge&logo=gmail&logoColor=FF69B4"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
+
 </div>
 
-</body>
-</html>
+---
+
+<div align="center">
+
+### 🌸 Obrigada pela visita! 🌸
+
+💗 Volte sempre 💗
+
+</div>
